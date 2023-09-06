@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-06T13:16:48.715Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="p78nBHUWBxXlSr5ghZYo" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-06T13:21:14.198Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="uL_nkR1QeNED905uGhXe" version="21.7.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="996" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,51 @@
         <mxCell id="8sbkgw_4qxqmmHxULFim-2" value="Check Room Availability&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="230" width="196" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="8sbkgw_4qxqmmHxULFim-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8sbkgw_4qxqmmHxULFim-7" target="8sbkgw_4qxqmmHxULFim-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8sbkgw_4qxqmmHxULFim-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8sbkgw_4qxqmmHxULFim-7" target="8sbkgw_4qxqmmHxULFim-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8sbkgw_4qxqmmHxULFim-7" value="Is the Room Available for desired Dates ?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="296" y="390" width="244" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8sbkgw_4qxqmmHxULFim-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.543;entryY=0.043;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8sbkgw_4qxqmmHxULFim-10" target="8sbkgw_4qxqmmHxULFim-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8sbkgw_4qxqmmHxULFim-10" value="Enter Personal And Payement Details" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="510" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8sbkgw_4qxqmmHxULFim-11" value="Room Not Available" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="590" y="510" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8sbkgw_4qxqmmHxULFim-14" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="175" y="388" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8sbkgw_4qxqmmHxULFim-15" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="388" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8sbkgw_4qxqmmHxULFim-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8sbkgw_4qxqmmHxULFim-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8sbkgw_4qxqmmHxULFim-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8sbkgw_4qxqmmHxULFim-16" target="8sbkgw_4qxqmmHxULFim-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8sbkgw_4qxqmmHxULFim-16" value="Is Payement Sucessful ?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="620" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8sbkgw_4qxqmmHxULFim-18" value="Reserve Room" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8sbkgw_4qxqmmHxULFim-20" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="15" y="598" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8sbkgw_4qxqmmHxULFim-22" value="Payment Failed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
