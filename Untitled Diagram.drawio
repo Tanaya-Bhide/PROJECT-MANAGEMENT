@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-06T13:23:13.639Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="3S1rBd5fKmsk9UTMuyYS" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-06T13:23:51.959Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="YzRemjCAi7PpcfCa_cp1" version="21.7.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="996" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -47,6 +47,11 @@
         <mxCell id="8sbkgw_4qxqmmHxULFim-16" value="Is Payement Sucessful ?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="620" width="185" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8sbkgw_4qxqmmHxULFim-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8sbkgw_4qxqmmHxULFim-18" target="8sbkgw_4qxqmmHxULFim-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8sbkgw_4qxqmmHxULFim-18" value="Reserve Room" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="760" width="120" height="60" as="geometry" />
         </mxCell>
@@ -58,6 +63,9 @@
         </mxCell>
         <mxCell id="8sbkgw_4qxqmmHxULFim-23" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="598" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8sbkgw_4qxqmmHxULFim-25" value="send Confirmation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="870" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
