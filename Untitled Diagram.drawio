@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-06T14:50:22.667Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="EdIzUcNwN-ojo6Dd2qLb" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-06T14:58:03.717Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="9Ur2hg4_C3uvmkhLLFvR" version="21.7.2" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1489" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -99,6 +99,21 @@
         </mxCell>
         <mxCell id="bN8ejbelT_9eSDVCJ1QS-117" value="Record Transactions" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="940" y="188" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bN8ejbelT_9eSDVCJ1QS-119" value="Serach For Book&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="360" width="290" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="bN8ejbelT_9eSDVCJ1QS-121" value="(Search for Book ) ---&amp;gt; Book Catakouge&amp;nbsp; : Queries" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="383" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bN8ejbelT_9eSDVCJ1QS-131" value="Add to Cart" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="440" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bN8ejbelT_9eSDVCJ1QS-134" value="(Add to Cart)---&amp;gt; Customercart : updates" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="bN8ejbelT_9eSDVCJ1QS-131">
+          <mxGeometry x="10" y="30" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bN8ejbelT_9eSDVCJ1QS-133" value="(Search for Book ) ---&amp;gt; Book Catakouge&amp;nbsp; : Queries" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="383" width="290" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
